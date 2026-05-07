@@ -44,6 +44,13 @@ nuke.pluginAddPath('CG_nuke')
 
 
 
+## 软件版本
+- maya 2024
+- nuke 14.0v5
+- python 3.10
+- arnold  5.3.41
+- redshift 3.5.20
+
 
 ## 支持的渲染器
 | 渲染器 | 
