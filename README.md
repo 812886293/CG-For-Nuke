@@ -44,12 +44,20 @@ nuke.pluginAddPath('CG_nuke')
 
 
 
-## 软件版本
+## 软件测试版本
 - maya 2024
 - nuke 14.0v5
 - python 3.10
 - arnold  5.3.41
 - redshift 3.5.20
+
+
+## AOV参考
+### Arnold
+![alt text](Arnold_aov_example.png)
+
+### Redshift
+![alt text](Redshift_aov_example.png)
 
 
 ## 支持的渲染器
