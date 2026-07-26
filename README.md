@@ -1,10 +1,18 @@
 ### 2026.07.26更新
-支持blender cycles渲染器输出的aov，合成公式参考如图
+⭐支持blender cycles渲染器输出的aov，合成公式参考如图
 
 ![alt text](Blender_cycles.png)
 
 
 ###
+
+
+
+
+
+
+
+
 
 
 # Nuke AOV 自动预合成插件
